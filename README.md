@@ -1,2 +1,12 @@
-# F-S-M-dicale-Esth-tique
-Site web F&amp;S MÉDICALE ESTHÉTIQUE - HTML/CSS
+---
+title: f-s-m-dical-esth-tique
+emoji: 🐳
+colorFrom: gray
+colorTo: purple
+sdk: static
+pinned: false
+tags:
+  - deepsite
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
